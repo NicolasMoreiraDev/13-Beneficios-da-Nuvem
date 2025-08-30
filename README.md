@@ -51,5 +51,5 @@ GZRS (Geo-Zone-Redundant Storage): A opção mais robusta e cara. Combina a redu
 3. Navegação e Documentação Integrada
 A experiência no portal reforçou a facilidade de uso da plataforma. Cada item de configuração possui um breve resumo explicativo e um link "Saiba mais", que direciona para a documentação oficial da Microsoft. Isso torna o aprendizado contínuo e a consulta a detalhes técnicos um processo integrado e muito eficiente.
 
-🏁 Conclusão
+Conclusão
 Este laboratório foi extremamente valioso para materializar os conceitos teóricos da computação em nuvem. Criar uma Máquina Virtual na prática, e entender como decisões de configuração — como as opções de redundância de armazenamento — afetam diretamente o custo e a resiliência (SLA) de uma solução, são conhecimentos fundamentais. Sinto-me mais confiante para provisionar e gerenciar recursos de computação na Azure.
